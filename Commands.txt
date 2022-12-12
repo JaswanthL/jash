@@ -1,2 +1,2 @@
 Git_config is used to configure the git
-git config --global uder.name "USER_NAME"
+git config --global user.name "USER_NAME"
